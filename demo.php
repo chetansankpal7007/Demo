@@ -1,4 +1,4 @@
 <php 
 $i=20;
-echo $i;
+echo $i++;
 ?>
